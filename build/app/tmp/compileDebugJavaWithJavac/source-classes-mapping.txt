@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/ayyah_ride_customer/BuildConfig.java
+ com.example.ayyah_ride_customer.BuildConfig

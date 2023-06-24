@@ -1,0 +1,4 @@
+#Sat Jun 24 12:19:52 EDT 2023
+base.0=/home/abokintech/Desktop/projects/ayyah_ride_customer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/e526094035742184211b45d605b97c8c/jetified-play-services-base-17.2.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/e526094035742184211b45d605b97c8c/jetified-play-services-base-17.2.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/e526094035742184211b45d605b97c8c/jetified-play-services-base-17.2.1/res/color/common_google_signin_btn_tint.xml"
+    }
+]

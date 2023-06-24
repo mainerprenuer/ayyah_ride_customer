@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/b781330f13e915c5e33e9edfc19100b1/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/b781330f13e915c5e33e9edfc19100b1/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/b781330f13e915c5e33e9edfc19100b1/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/abokintech/Desktop/projects/ayyah_ride_customer/build/geolocator/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/abokintech/.gradle/caches/transforms-2/files-2.1/b781330f13e915c5e33e9edfc19100b1/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
