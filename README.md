@@ -7,8 +7,6 @@ ayyah_ride_customer has Project has "main.dart" as Entry Point.
 - [Drop me your message](https://twitter.com/moustymainer)
 
 
-https://user-images.githubusercontent.com/48312656/115983462-a721b100-a54d-11eb-8487-d122b5e70901.mp
-
 
 
 = = = To Generate Android release steps = = =
